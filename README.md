@@ -1,2 +1,2 @@
 # Dynamic_Content
-This project uses HTML and PHP to dynamically display the user’s favorite color after clicking the Check Now button.
+This project demonstrates dynamic content creation using HTML and PHP. It allows the user to enter their favorite color in an input field and submit it by clicking the “Check Now” button. The entered color is processed using PHP and displayed dynamically on the same page after form submission. The result is printed directly within the form output area without using a paragraph (<p>) tag. This project helps in understanding basic PHP form handling, conditional statements, and dynamic data display in a web application.
